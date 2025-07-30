@@ -15,7 +15,7 @@ This project showcases the importance of using a password manager and demonstrat
 ## 📄 Report
 
 Detailed step-by-step PDF:  
-📥 [Secure Password Management Demonstration.pdf](./Secure_Password_Management_Demonstration.pdf)
+📥Secure Password Management Demonstration.pdf
 
 ## 📽️ Video Demonstration
 
